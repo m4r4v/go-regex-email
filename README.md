@@ -1,1 +1,1 @@
-# go-regex-email
+# GO email validation using REGEX
